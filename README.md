@@ -34,7 +34,3 @@ Contributions are welcome! Please read the contributing guidelines before making
 ## 📜 License 📜
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## 🎥 Fun Resources 🎥
-- Intro to Data Structures (Video)
-- Sorting Algorithms in Action (GIF)
-- Data Structures Explained (Interactive Website)
