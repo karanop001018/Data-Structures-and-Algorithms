@@ -1,4 +1,4 @@
-# 🚀 Data Structures and Algorithms Repository 🚀
+# 🚀 Data Structures and Algorithms 🚀
 
 
 https://github.com/karanop001018/Data-Structures-and-Algorithms/assets/96780293/51629b29-bcc2-46d1-b703-69db41d10f0d
