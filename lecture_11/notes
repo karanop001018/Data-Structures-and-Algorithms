@@ -1,0 +1,25 @@
+        | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
+--------|----------|----------|----------|----------|----------|
+Row 1   |          |          |          |          |          |
+Row 2   |          |          |          |          |          |
+Row 3   |          |          |          |          |          |
+
+***********For 2D-Array***********
+Int = 4 bytes
+Boolean = 1 byte
+
+To calculate memory consumption of a 2D-Array
+    = (rows x columns) x size of datatype
+
+So, lets calculate total memory consuption for given table :
+    = (rows x columns) x size of datatype
+    = (3 x 5) x 4(Because, it's integer)
+    = 15 x 4
+    = 60 bytes is the total memory consumption by the given array
+
+
+
+***************************Declaration(2-D Array)**************************
+type[][] arrayName = new type[rows][columns];
+example : int[][] numbers = new int[3][5];
+
